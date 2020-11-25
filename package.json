@@ -2,7 +2,7 @@
   "name": "generator-rosalind-vue",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "rosalind",
+  "author": "rosalindjuan",
   "license": "MIT",
   "dependencies": {
     "yeoman-generator": "^4.12.0"
